@@ -14,8 +14,6 @@
 
 [![Live Web App](https://img.shields.io/badge/Live%20Web-sentinel.elpeef.com-0D9488?style=for-the-badge&logo=vercel&logoColor=white)](https://sentinel.elpeef.com)
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit%20Demo-sentinel.streamlit.app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://rantai-sentinel.streamlit.app)
-
 > For security and IP protection, the full production code is currently hosted privately. This repository demonstrates the project structure and documentation.
 
 ---
