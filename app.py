@@ -15,7 +15,9 @@ with st.sidebar:
     st.sidebar.markdown("📘 **About**")
     st.sidebar.markdown("""
     **RANTAI Sentinel** is comprehensive platform powered by OpenAI GPT-4 for automated ESG monitoring, predictions, and reporting with blockchain transparency, AI security, and real-time compliance intelligence.
+  
     ---
+    
     #### 🔮 Vision Statement
     
     To be number one ESG Management Platform in the world.
@@ -23,11 +25,13 @@ with st.sidebar:
     > The original version can be accessed here https://greenlend.elpeef.com/
    
     ---
+    
     ### 🧩 Apps Showcase
     Our other apps and tools can be seen here:
     [ELPEEF](https://showcase.elpeef.com/)
     
     ---
+   
     #### 🙌 Support & Contribute
     
     - ⭐ **Star / Fork**: [GitHub repo](https://github.com/mrbrightsides/sentinel)
